@@ -1,5 +1,6 @@
 # Tableau-Mini-Projects
-
+## First Project on tableau
+### imported dataset from kaggle
 ![image](https://github.com/user-attachments/assets/3aeb405c-8001-49b4-97c5-7cb750fe9c9f)
 
 ![image](https://github.com/user-attachments/assets/2b65dffe-dfd7-4d53-83dd-821b125e7150)
